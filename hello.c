@@ -1,4 +1,5 @@
-#include <stdio.h>
+B
+iinclude <stdio.h>
 int main(int argc, char* argv[])
 {
 int i;
